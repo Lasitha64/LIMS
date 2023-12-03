@@ -1,0 +1,12 @@
+# Ignore npm lock file for server and client
+/server/package-lock.json
+/client/package-lock.json
+
+# Ignore node modules in the server directory
+/server/node_modules/
+
+# Ignore build output in the client directory
+/client/build/
+
+# Ignore client-side dependencies
+/client/node_modules/
